@@ -1,0 +1,9 @@
+C:\Users\rajee\source\Repos\P3_code\bin\Debug\P3_code.exe.config
+C:\Users\rajee\source\Repos\P3_code\bin\Debug\P3_code.exe
+C:\Users\rajee\source\Repos\P3_code\bin\Debug\P3_code.pdb
+C:\Users\rajee\source\Repos\P3_code\obj\Debug\P3_code.csproj.AssemblyReference.cache
+C:\Users\rajee\source\Repos\P3_code\obj\Debug\P3_code.Properties.Resources.resources
+C:\Users\rajee\source\Repos\P3_code\obj\Debug\P3_code.csproj.GenerateResource.cache
+C:\Users\rajee\source\Repos\P3_code\obj\Debug\P3_code.csproj.CoreCompileInputs.cache
+C:\Users\rajee\source\Repos\P3_code\obj\Debug\P3_code.exe
+C:\Users\rajee\source\Repos\P3_code\obj\Debug\P3_code.pdb
